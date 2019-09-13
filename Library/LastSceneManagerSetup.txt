@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Tic-Tac-toe.unity
+  isLoaded: 1
+  isActive: 1
